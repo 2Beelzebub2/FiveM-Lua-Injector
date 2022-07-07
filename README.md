@@ -13,6 +13,7 @@ The injector has some features but I recommend using your own lua menu.
 +  More money functions
 +  Doesn't crash anymore when spawning props
 +  No more instant ban with props on most servers
++  Fps no longer drop to 30 when using ESP 
 ```
 **Does not work on windows 8 or under**
 
