@@ -1,4 +1,4 @@
-# FiveM-Lua-Injector
+# <span style="color: purple"> FiveM-Lua-Injector </span>
 A Free FiveM Lua injector, inspired by another free project     
 # How to use  
 Just open the FiveM-Lua-Injector.exe **BEFORE** openning FiveM and inject the .lua you want  
