@@ -1,6 +1,4 @@
-```html
- # <span style="color: green"> FiveM-Lua-Injector </span>
-```
+# FiveM-Lua-Injector
 
 A Free FiveM Lua injector, inspired by another free project     
 # How to use  
