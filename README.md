@@ -3,14 +3,14 @@ A Free FiveM Lua injector, inspired by another free project
 # How to use  
 Just open the FiveM-Lua-Injector.exe **BEFORE** openning FiveM and inject the .lua you want  
 ```diff
-+ **Fixed crashing on windows 11**
-+ **New anti-cheat bypass method**
-+ **New stop resources**
-+ **New stop anti-cheat**
-+ **Optimization**
-+ **More money functions**
-+ **Doesn't crash anymore when spawning props**
-+ **No more instant ban with props on most servers**
++  <b>Fixed crashing on windows 11 </b>
++  <b>New anti-cheat bypass method </b>
++  <b>New stop resources </b>
++  <b>New stop anti-cheat </b>
++  <b>Optimization </b>
++  <b>More money functions </b>
++  <b>Doesn't crash anymore when spawning props </b>
++  <b>No more instant ban with props on most servers </b>
 ```
 does not work on windows 8 or under
 
