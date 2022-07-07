@@ -3,7 +3,7 @@ A Free FiveM Lua injector, inspired by another free project
 # How to use  
 Just open the FiveM-Lua-Injector.exe **BEFORE** openning FiveM and inject the .lua you want  
 ```diff
-+ @Fixed crashing on windows 11@
++ @@Fixed crashing on windows 11@@
 ```
 does not work on windows 8 or under
 
