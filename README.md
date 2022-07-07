@@ -14,6 +14,7 @@ The injector has some features but I recommend using your own lua menu.
 +  Doesn't crash anymore when spawning props
 +  No more instant ban with props on most servers
 +  Fps no longer drop to 30 when using ESP 
+-  Removed the option to download resources since it gave instant ban(working on it)
 ```
 **Does not work on windows 8 or under**
 
