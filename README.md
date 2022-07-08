@@ -19,7 +19,7 @@ v2.2  07/07/2022
 
 v2.1 25/06/2022
 +  Fixed rare bug where it would crash FiveM with no reason
-! Working on windows 11 crashing
+!  Working on windows 11 crashing
 ```
 **Does not work on windows 8 or under**
 
