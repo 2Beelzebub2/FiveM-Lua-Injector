@@ -18,7 +18,7 @@ v2.2  07/07/2022
 +  Doesn't crash anymore when spawning props
 +  No more instant ban with props on most servers
 +  Fps no longer drop to 30 when using ESP 
--  Removed the option to download resources since it gave instant ban(working on it)
+-  Removed the option to download resources
 
 v2.1 25/06/2022
 +  Fixed rare bug where it would crash FiveM with no reason
