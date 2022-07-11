@@ -10,7 +10,7 @@ v2.2.1 08/07/2022
 +  Small bug fixes
 
 v2.2  07/07/2022
-+  Fixed crashing on windows 11
++  **Fixed crashing on windows 11**
 +  New anti-cheat bypass method
 +  New stop resources
 +  New stop anti-cheat 
