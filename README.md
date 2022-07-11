@@ -1,4 +1,5 @@
 # FiveM-Lua-Injector
+[![GitHub license]([https://github.com/2Beelzebub2/FiveM-Lua-Injector/blob/main/LICENSE])
 
 A Free FiveM Lua injector, inspired by another free project that was unfortunately shut down.     
 # How to use  
