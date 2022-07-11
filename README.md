@@ -1,5 +1,5 @@
 # FiveM-Lua-Injector
-[![GitHub license]([https://github.com/2Beelzebub2/FiveM-Lua-Injector/blob/main/LICENSE])
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A Free FiveM Lua injector, inspired by another free project that was unfortunately shut down.     
 # How to use  
