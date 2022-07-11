@@ -1,5 +1,5 @@
 # FiveM-Lua-Injector
-![alt text](https://imgur.com/a/SmLRvpI "Lucifer Injector")  
+![Lucifer Injector](https://user-images.githubusercontent.com/105885878/178343529-24318bf8-d74d-4328-a323-20ef32615e4c.png)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A Free FiveM Lua injector, inspired by another free project that was unfortunately shut down.     
