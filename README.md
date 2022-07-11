@@ -1,5 +1,6 @@
 # FiveM-Lua-Injector
-![Lucifer Injector](https://user-images.githubusercontent.com/105885878/178343529-24318bf8-d74d-4328-a323-20ef32615e4c.png)  
+ ![Lucifer Injector](https://user-images.githubusercontent.com/105885878/178343788-e7c3278e-114c-44cf-a83c-08b1199742cc.png)  
+
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
