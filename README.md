@@ -6,7 +6,7 @@
 
 A Free FiveM Lua injector, inspired by another free project that was unfortunately shut down.     
 # How to use  
-Just open the FiveM-Lua-Injector.exe **BEFORE** openning FiveM and inject the .lua you want.  
+Just open the FiveM-Lua-Injector.exe **BEFORE** opening FiveM and inject the .lua you want.  
 The injector has some features but I recommend using your own lua menu.
 ```diff
 v2.3.1 12/07/2022
