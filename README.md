@@ -1,7 +1,7 @@
 # FiveM-Lua-Injector
  ![Lucifer Injector](https://user-images.githubusercontent.com/105885878/178343788-e7c3278e-114c-44cf-a83c-08b1199742cc.png)  
  
- [![Watch the video](https://imgur.com/YEik1AU)](https://streamable.com/0ys3g4)
+ [![ESP preview](https://i.imgur.com/YEik1AU.png)](https://streamable.com/0ys3g4)
 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
