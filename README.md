@@ -37,10 +37,7 @@ v2.1 25/06/2022
 +  Fixed rare bug where it would crash FiveM with no reason
 !  Working on windows 11 crashing
 ```
-![Process simulation](https://user-images.githubusercontent.com/105885878/178622225-91bea3e5-0fb2-4dd7-950a-e0c330a334ad.png)
-
-
-![165113364-29f71308-064a-4360-90fa-b3bd4589f3b5](https://user-images.githubusercontent.com/105885878/169619902-d1716e7e-4c71-4bf4-a468-7086ce4884ef.png)  
+![Process simulation](https://user-images.githubusercontent.com/105885878/178622225-91bea3e5-0fb2-4dd7-950a-e0c330a334ad.png)   
 
 **ESP Preview:**  
 
