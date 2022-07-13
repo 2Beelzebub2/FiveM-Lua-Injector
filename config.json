@@ -1,7 +1,14 @@
+// All of this are optional
+// You can only put some of them the rest will be automatic
+
 {
     "Process to emulate": {
       "Program": {
-        "Name": "Calculator"
+        "Name": "Calculator",
+        "Cpu": "2",
+        "Memory": "20",
+        "GPU": "8"
       }
     }
 }
+// Have fun cheating
