@@ -37,8 +37,9 @@ v2.1 25/06/2022
 +  Fixed rare bug where it would crash FiveM with no reason
 !  Working on windows 11 crashing
 ```
-![Process simulation](https://user-images.githubusercontent.com/105885878/178622225-91bea3e5-0fb2-4dd7-950a-e0c330a334ad.png)   
+![Process simulation](https://user-images.githubusercontent.com/105885878/178622225-91bea3e5-0fb2-4dd7-950a-e0c330a334ad.png)     
 
+The injector ESP is pretty good but I still recommend using the one from your lua menu since mine has some performance issue's, if your pc is a moster you should be good tho.    
 **ESP Preview:**  
 
  [![ESP preview](https://i.imgur.com/YEik1AU.png)](https://streamable.com/0ys3g4)
