@@ -1,6 +1,3 @@
-// All of this are optional
-// You can only put some of them the rest will be automatic
-
 {
     "Process to emulate": {
       "Program": {
@@ -11,4 +8,3 @@
       }
     }
 }
-// Have fun cheating
