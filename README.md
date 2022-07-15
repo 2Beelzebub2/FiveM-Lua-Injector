@@ -9,6 +9,9 @@ Turn off anti-virus, it will give false positive because of the new emulate prog
 Open the FiveM-Lua-Injector.exe **BEFORE** opening FiveM and inject the .lua you want.  
 The injector comes with some features but for better experience I recommend using your own lua menu.
 ```diff
+v2.3.4 13/07/2022
++  Code optimization
+
 v2.3.3 13/07/2022
 +  Program size reduction
 +  Fixed some problems with process emulator
